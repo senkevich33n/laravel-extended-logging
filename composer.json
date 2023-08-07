@@ -1,5 +1,5 @@
 {
-    "name": "consilience/laravel-extended-logging",
+    "name": "senkevich33n/laravel-extended-logging",
     "description": "Extend Laravel and Lumen logging to better support containers",
     "type": "library",
     "license": "MIT",
